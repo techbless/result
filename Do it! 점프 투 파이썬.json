@@ -1,0 +1,37 @@
+[
+  {
+    "title": "윤성우 열혈 C++ 프로그래밍",
+    "author": " 윤성우",
+    "description": "2004년도에 출간된 윤성우 저자 「열혈강의 C++ 프로그래밍」의 개정판. 초판과 마찬가지로 C언어를 이해하고 있다는 가정하에서 집필된 C++ 기본서로서, 초보자에게 적절한 설명과 예제를 통해서 C++ 학습에 재미를 더하고 있다.\n\n 초판에 비해서 보강된 부분도 눈에 띈다. 초판에는 없었던 내용들이 약 120 페이지... ",
+    "imageURL": "https://bookthumb-phinf.pstatic.net/cover/062/717/06271757.jpg?type=m1&udate=20161223",
+    "libURL": null
+  },
+  {
+    "title": "Do it! 스위프트로 아이폰 앱 만들기 입문",
+    "author": " 송호정",
+    "description": "아이폰 분야 1위 도서, 《DO IT! 스위프트로 아이폰 앱 만들기 입문》 개정 5판이 출간되었다.\n이번 개정에서는 SWIFT 5.3, XCODE 12.1 버전을 반영했다. 이 책은 첫 장부터 XCODE를 설치하고 예제로 앱을 만드는 실습을 시작한다. 초보자도 실습을 잘 따라올 수 있도록 하나하나 알려 줘서 코딩 경험이 많지... ",
+    "imageURL": "https://bookthumb-phinf.pstatic.net/cover/177/648/17764834.jpg?type=m1&udate=20210113",
+    "libURL": null
+  },
+  {
+    "title": "Node.js 교과서",
+    "author": " 조현영",
+    "description": "NODE.JS 베스트셀러 1위! 전면 개정판!\nNODE.JS 14로, 노드의 기본부터 실무까지 전 과정 총망라! \n다양한 서비스를 직접 만드는, 실무에 가장 가까운 강의!노드와 패키지를 최신 버전으로 업데이트! 노드 V12와 V14에 추가된 주요 기능 추가! 또한, 초판 피드백을 참고하여 문법 설명 강화! 예제와 코드에 대한... ",
+    "imageURL": "https://bookthumb-phinf.pstatic.net/cover/164/187/16418778.jpg?type=m1&udate=20200917",
+    "libURL": null
+  },
+  {
+    "title": "당신이 지금 알아야 할 AWS",
+    "author": " 이영호",
+    "description": "가장 강력한 클라우드 서비스를 경험하기 위한 최고의 AWS 가이드 클라우드나 AWS에 대한 지식은 인터넷에서 몇 번 클릭하는 것만으로도... 최근 AWS에 대한 기술 도서들이 많이 출간되었지만 초보자들이 복잡한 클라우드 인프라를 익히는 것은 아직까지는 쉽지 않은 일이다. 이 책은 AWS... ",
+    "imageURL": "https://bookthumb-phinf.pstatic.net/cover/149/310/14931079.jpg?type=m1&udate=20210509",
+    "libURL": null
+  },
+  {
+    "title": "이펙티브 자바",
+    "author": " 조슈아 블로크",
+    "description": "자바 플랫폼 모범 사례 완벽 가이드 - JAVA 7, 8, 9 대응자바 6 출시 직후 출간된 『이펙티브 자바 2판』 이후로 자바는 커다란 변화를 겪었다. 그래서 졸트상에 빛나는 이 책도 자바 언어와 라이브러리의 최신 기능을 십분 활용하도록 내용 전반을 철저히 다시 썼다. 모던 자바가 여러 패러다임을... ",
+    "imageURL": "https://bookthumb-phinf.pstatic.net/cover/140/975/14097515.jpg?type=m1&udate=20181023",
+    "libURL": null
+  }
+]
